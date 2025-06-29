@@ -1,6 +1,6 @@
 # Aurebesh Droid — Heroku Deployment
 
-This repository contains the **Linux-ready Aurebesh Droid Discord Bot binary** and configuration needed to deploy the bot to **Heroku** using this [Binary Buildpack](https://github.com/heroku/heroku-buildpack-static).
+This repository contains the **Linux-ready Aurebesh Droid Discord Bot binary** and configuration needed to deploy the bot to **Heroku** using no buildpacks.
 
 [**Add Aurebesh Droid to Your Server**](https://discord.ly/aurebesh-droid)
 
