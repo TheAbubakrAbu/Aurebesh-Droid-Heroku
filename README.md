@@ -50,7 +50,7 @@ To view or contribute to the full C++ source:
 ## Privacy & Data
 
 **Aurebesh Droid** respects your privacy:
-- **No Personal Data Collected** – Only temporary game data is stored.
+* **No Personal Data Collected or Stored** – The bot does not save any user data.
 - **Secure & Compliant** – Fully adheres to Discord’s Terms of Service and Privacy Policy.
 
 ## License
