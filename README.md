@@ -2,9 +2,13 @@
 
 This repository contains the **Linux-ready Aurebesh Droid Discord Bot binary** and configuration needed to deploy the bot to **Heroku** using [this buildpack](https://github.com/ph3nx/heroku-binary-buildpack.git).
 
-[**Add Aurebesh Droid to Your Server**](https://discord.ly/aurebesh-droid)
-
 Created by **Abubakr Elmallah** on **June 28, 2025**.
+
+[**Add Aurebesh Droid to Your Discord Server**](https://discord.ly/aurebesh-droid)
+
+<a href="https://discord.ly/aurebesh-droid">
+  <img src="logo.png" alt="Logo" width="120" style="border-radius:10px;"/>
+</a>
 
 ## Features
 
